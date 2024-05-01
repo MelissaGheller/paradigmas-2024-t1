@@ -1,6 +1,9 @@
-/**
- * Insira seu código para solucionar o trabalho neste arquivo.
- */
+#include <stdio.h>
+#include <stdlib.h>
+
+
+
+
 
 #include "lista.h"
 
